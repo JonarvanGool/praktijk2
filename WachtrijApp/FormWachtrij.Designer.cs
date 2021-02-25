@@ -47,7 +47,7 @@
             this.labelTitel.Name = "labelTitel";
             this.labelTitel.Size = new System.Drawing.Size(232, 40);
             this.labelTitel.TabIndex = 0;
-            this.labelTitel.Text = "Bugs of Horror";
+            this.labelTitel.Text = "Debug Hero";
             this.labelTitel.Click += new System.EventHandler(this.labelTitel_Click);
             // 
             // labelWachttijd
