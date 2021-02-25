@@ -121,7 +121,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormWachtrij";
-            this.Text = "Bugs of Horror";
+            this.Text = "Debug hero";
             ((System.ComponentModel.ISupportInitialize)(this.AttractieLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
